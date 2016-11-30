@@ -1,6 +1,6 @@
 Map Reducer Word Count Example
 ==========
-# H4 Pre Requisite:  
+#Prerequisite:  
 1. Maven 3
 2. Jdk 1.7 +
 3. Eclipse with m2eclipse plugin installed
