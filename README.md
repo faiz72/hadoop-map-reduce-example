@@ -1,13 +1,15 @@
 Map Reducer Word Count Example
 ==========
-Pre Requisite
-maven 3
-jdk 1.7 +
-eclipse with m2eclipse plugin installed
+Pre Requisite:
+1) Maven 3
+2) Jdk 1.7 +
+3) Eclipse with m2eclipse plugin installed
 
 Hadoop MapReduce example that uses word count to explain how mapping and reducing works.
 
 WordCount is a simple application that counts the number of occurrences of each word in a given input set.
+
+Maven dependencies are for older version of Hadoop 1.0.0. I also included dependency for logback logging framework.
 
 
 License
