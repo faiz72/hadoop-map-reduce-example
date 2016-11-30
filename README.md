@@ -1,9 +1,9 @@
 Map Reducer Word Count Example
 ==========
-Pre Requisite:
-1) Maven 3
-2) Jdk 1.7 +
-3) Eclipse with m2eclipse plugin installed
+# H4 Pre Requisite:  
+1. Maven 3
+2. Jdk 1.7 +
+3. Eclipse with m2eclipse plugin installed
 
 Hadoop MapReduce example that uses word count to explain how mapping and reducing works.
 
